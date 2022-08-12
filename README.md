@@ -1,4 +1,4 @@
-# Budget Tracker PWA
+# Budget Tracker PWA 💰📈
 
 ![license badge](https://img.shields.io/badge/license-MIT-blue)
 
